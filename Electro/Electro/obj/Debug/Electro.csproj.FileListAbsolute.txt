@@ -36,3 +36,23 @@ C:\Documents and Settings\Nishen Peiris\My Documents\Visual Studio 2008\Projects
 C:\Documents and Settings\Nishen Peiris\My Documents\Visual Studio 2008\Projects\Electro\Electro\obj\Debug\Electro.SignIn.resources
 C:\Documents and Settings\Nishen Peiris\My Documents\Visual Studio 2008\Projects\Electro\Electro\obj\Debug\Electro.Welcome.resources
 C:\Documents and Settings\Nishen Peiris\My Documents\Visual Studio 2008\Projects\Electro\Electro\obj\Debug\Electro.csproj.GenerateResource.Cache
+C:\Users\GoofyChicken\Source\Repos\student-registration-system\Electro\Electro\bin\Debug\Database1.mdf
+C:\Users\GoofyChicken\Source\Repos\student-registration-system\Electro\Electro\bin\Debug\Database1_log.ldf
+C:\Users\GoofyChicken\Source\Repos\student-registration-system\Electro\Electro\bin\Debug\Electro.exe.config
+C:\Users\GoofyChicken\Source\Repos\student-registration-system\Electro\Electro\bin\Debug\Electro.exe
+C:\Users\GoofyChicken\Source\Repos\student-registration-system\Electro\Electro\bin\Debug\Electro.pdb
+C:\Users\GoofyChicken\Source\Repos\student-registration-system\Electro\Electro\obj\Debug\Electro.csprojAssemblyReference.cache
+C:\Users\GoofyChicken\Source\Repos\student-registration-system\Electro\Electro\obj\Debug\Electro.AdvancedSearch.resources
+C:\Users\GoofyChicken\Source\Repos\student-registration-system\Electro\Electro\obj\Debug\Electro.ExamResults.resources
+C:\Users\GoofyChicken\Source\Repos\student-registration-system\Electro\Electro\obj\Debug\Electro.FeeReceived.resources
+C:\Users\GoofyChicken\Source\Repos\student-registration-system\Electro\Electro\obj\Debug\Electro.HiddenForm.resources
+C:\Users\GoofyChicken\Source\Repos\student-registration-system\Electro\Electro\obj\Debug\Electro.Properties.Resources.resources
+C:\Users\GoofyChicken\Source\Repos\student-registration-system\Electro\Electro\obj\Debug\Electro.Register.resources
+C:\Users\GoofyChicken\Source\Repos\student-registration-system\Electro\Electro\obj\Debug\Electro.Search.resources
+C:\Users\GoofyChicken\Source\Repos\student-registration-system\Electro\Electro\obj\Debug\Electro.SignedIn.resources
+C:\Users\GoofyChicken\Source\Repos\student-registration-system\Electro\Electro\obj\Debug\Electro.SignIn.resources
+C:\Users\GoofyChicken\Source\Repos\student-registration-system\Electro\Electro\obj\Debug\Electro.Welcome.resources
+C:\Users\GoofyChicken\Source\Repos\student-registration-system\Electro\Electro\obj\Debug\Electro.csproj.GenerateResource.cache
+C:\Users\GoofyChicken\Source\Repos\student-registration-system\Electro\Electro\obj\Debug\Electro.csproj.CoreCompileInputs.cache
+C:\Users\GoofyChicken\Source\Repos\student-registration-system\Electro\Electro\obj\Debug\Electro.exe
+C:\Users\GoofyChicken\Source\Repos\student-registration-system\Electro\Electro\obj\Debug\Electro.pdb
